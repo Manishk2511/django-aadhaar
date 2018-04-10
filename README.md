@@ -1,1 +1,1 @@
-# django-aadhaar
+An django extension for aadhaar integration
